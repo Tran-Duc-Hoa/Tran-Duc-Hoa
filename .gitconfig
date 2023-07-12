@@ -1,0 +1,14 @@
+[user]
+	name = Tran-Duc-Hoa
+	email = tranduchoa611@gmail.com
+[pull]
+	rebase = false
+[core]
+	autocrlf = input
+	editor = code --wait
+[diff]
+	tool = vscode
+[difftool "vscode"]
+	cmd = "code --wait --diff $LOCAL $REMOTE"
+[init]
+	defaultBranch = master
