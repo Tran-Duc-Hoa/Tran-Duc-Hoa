@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tran-Duc-Hoa
-- 👀 I’m interested in web development
-- 🌱 I’m currently working with Reactjs, Node.js, MongoDB
+- 👀 I’m interested in web & backend development
+- 🌱 I’m currently working with Reactjs, Nextjs, NodeJS, ExpressJS, MongoDB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
