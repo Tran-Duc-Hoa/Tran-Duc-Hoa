@@ -3,6 +3,8 @@
 	email = tranduchoa611@gmail.com
 [pull]
 	rebase = false
+[push]
+	autoSetupRemote = true
 [core]
 	autocrlf = input
 	editor = code --wait
@@ -10,5 +12,4 @@
 	tool = vscode
 [difftool "vscode"]
 	cmd = "code --wait --diff $LOCAL $REMOTE"
-[init]
-	defaultBranch = master
+
